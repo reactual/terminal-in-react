@@ -101,7 +101,7 @@ class App extends Component {
 > Be careful when copying this example because it uses `window` object (`'open-google': () => window.open("https://www.google.com/", "_blank"),`) which is only available on the client-side and it will give you an error if you're doing server side rendering.
 
 <p align="center">
-  <img src="https://i.gyazo.com/a7e35f346b909349a02438ee17678956.gif" />
+  `<img src="https://i.gyazo.com/a7e35f346b909349a02438ee17678956.gif" />`
 </p>
 
 ## Working
@@ -134,7 +134,7 @@ It does so by default.
 ```
 
 <p align="center">
-  <img src="http://g.recordit.co/a6D6PCtTcL.gif"/>
+  `<img src="http://g.recordit.co/a6D6PCtTcL.gif"/>`
 </p>
 
 ### Command passthrough
@@ -196,7 +196,7 @@ With the option `-h` or `--help`.
 />
 ```
 <p align="center">
-  <img src="https://i.gyazo.com/65468696bece70704bd8bcc50e6504e9.gif"/>
+  `<img src="https://i.gyazo.com/65468696bece70704bd8bcc50e6504e9.gif"/>`
 </p>
 
 The command API has three parameters `arguments`, `print`, and `runCommand`.
@@ -229,7 +229,7 @@ Let's take an another example -
 ```
 
 <p align="center">
-  <img src="https://i.gyazo.com/ef2427464989b1ce14bc44bb4fc94689.gif" />
+  `<img src="https://i.gyazo.com/ef2427464989b1ce14bc44bb4fc94689.gif" />`
 </p>
 
 ## Using plugins 🔥
@@ -274,7 +274,7 @@ const FileSystemPlugin = pseudoFileSystemPlugin();
 ```
 
 <p align="center">
-  <img src="http://g.recordit.co/4xcIZRKJCD.gif" />
+  `<img src="http://g.recordit.co/4xcIZRKJCD.gif" />`
 </p>
 
 Awesome! Right? Let us know if you make something interesting 😃
@@ -291,7 +291,7 @@ Awesome! Right? Let us know if you make something interesting 😃
 ### Tab autocomplete
 
 <p align="center">
-  <img src="https://i.gyazo.com/3e719f4091cbd72f3e1f99209493e50d.gif" />
+  `<img src="https://i.gyazo.com/3e719f4091cbd72f3e1f99209493e50d.gif" />`
 </p>
 
 ### Multiline input 🤹🏼‍♀️
@@ -299,7 +299,7 @@ Awesome! Right? Let us know if you make something interesting 😃
 via `shift + enter`
 
 <p align="center">
-  <img src="http://g.recordit.co/AznpOohzJL.gif" />
+  `<img src="http://g.recordit.co/AznpOohzJL.gif" />`
 </p>
 
 ### Check history of your commands 🖱️
@@ -307,7 +307,7 @@ via `shift + enter`
 using arrow down and up keys
 
 <p align="center">
-  <img src="https://i.gyazo.com/6fa55a8fbb961787c51e406e612e0bb8.gif" />
+  `<img src="https://i.gyazo.com/6fa55a8fbb961787c51e406e612e0bb8.gif" />`
 </p>
 
 ### Keyboard shortcuts ⌨
